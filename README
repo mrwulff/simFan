@@ -1,0 +1,16 @@
+
+
+
+1: Any "udmx" usb dmx device
+https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=udmx
+
+2: Any DMX dimmer pack
+https://www.amazon.com/Elation-CYBERPAK-Channel-Dimmer-Pack/dp/B00IJDYIVC/ref=sr_1_6?ie=UTF8&qid=1534484868&sr=8-6&keywords=dimmer+pack+elation
+
+3: download and setup/install
+https://github.com/dhocker/udmx-pyusb
+
+4: download and setup/install
+https://github.com/jamesremuscat/pcars
+
+5: Set PCars to use PCars 1 UDP and Shared Memory.  Set Update to 9 ( i think it kills the usb device if it is set higher)
